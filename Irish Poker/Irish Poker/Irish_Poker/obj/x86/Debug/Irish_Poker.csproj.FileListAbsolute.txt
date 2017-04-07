@@ -1,0 +1,17 @@
+c:\users\black jesus\documents\visual studio 2015\Projects\Irish Poker\Irish Poker\Irish_Poker\bin\x86\Debug\Irish_Poker.exe
+c:\users\black jesus\documents\visual studio 2015\Projects\Irish Poker\Irish Poker\Irish_Poker\bin\x86\Debug\Irish_Poker.pdb
+c:\users\black jesus\documents\visual studio 2015\Projects\Irish Poker\Irish Poker\Irish_Poker\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\black jesus\documents\visual studio 2015\Projects\Irish Poker\Irish Poker\Irish_Poker\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\black jesus\documents\visual studio 2015\Projects\Irish Poker\Irish Poker\Irish_Poker\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\black jesus\documents\visual studio 2015\Projects\Irish Poker\Irish Poker\Irish_Poker\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\black jesus\documents\visual studio 2015\Projects\Irish Poker\Irish Poker\Irish_Poker\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\black jesus\documents\visual studio 2015\Projects\Irish Poker\Irish Poker\Irish_Poker\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\black jesus\documents\visual studio 2015\Projects\Irish Poker\Irish Poker\Irish_Poker\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\black jesus\documents\visual studio 2015\Projects\Irish Poker\Irish Poker\Irish_Poker\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\black jesus\documents\visual studio 2015\Projects\Irish Poker\Irish Poker\Irish_Poker\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\black jesus\documents\visual studio 2015\Projects\Irish Poker\Irish Poker\Irish_Poker\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\black jesus\documents\visual studio 2015\Projects\Irish Poker\Irish Poker\Irish_Poker\obj\x86\Debug\Irish_Poker.csprojResolveAssemblyReference.cache
+c:\users\black jesus\documents\visual studio 2015\Projects\Irish Poker\Irish Poker\Irish_Poker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\black jesus\documents\visual studio 2015\Projects\Irish Poker\Irish Poker\Irish_Poker\obj\x86\Debug\Irish_Poker.exe
+c:\users\black jesus\documents\visual studio 2015\Projects\Irish Poker\Irish Poker\Irish_Poker\obj\x86\Debug\Irish_Poker.pdb
+c:\users\black jesus\documents\visual studio 2015\Projects\Irish Poker\Irish Poker\Irish_Poker\bin\x86\Debug\Content\SpriteFont1.xnb

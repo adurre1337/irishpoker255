@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Irish_Poker", "Irish Poker\Irish_Poker\Irish_Poker.csproj", "{422ADAC5-81D6-42BB-8FD3-591C29F045C2}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Irish_PokerContent", "Irish Poker\Irish_PokerContent\Irish_PokerContent.contentproj", "{B574F4CC-0CD7-4484-BBA4-3391D8ED89A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{422ADAC5-81D6-42BB-8FD3-591C29F045C2}.Debug|x86.ActiveCfg = Debug|x86
+		{422ADAC5-81D6-42BB-8FD3-591C29F045C2}.Debug|x86.Build.0 = Debug|x86
+		{422ADAC5-81D6-42BB-8FD3-591C29F045C2}.Release|x86.ActiveCfg = Release|x86
+		{422ADAC5-81D6-42BB-8FD3-591C29F045C2}.Release|x86.Build.0 = Release|x86
+		{B574F4CC-0CD7-4484-BBA4-3391D8ED89A5}.Debug|x86.ActiveCfg = Debug|x86
+		{B574F4CC-0CD7-4484-BBA4-3391D8ED89A5}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
